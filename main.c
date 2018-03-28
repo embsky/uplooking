@@ -2,6 +2,12 @@
 
 int main(void)
 {
-	return 0;
-}
+	print('hahaha');
+	print('hahaha');
+	print('hahaha');
+	print('hahaha');
+	print('hahaha');
 
+	return 0;
+
+}
